@@ -7,6 +7,7 @@ h1 {
     font-weight: bold;
     color: #a58bec;
     text-align: center;
+    padding: 20px;
 }
 
 ul {
@@ -21,6 +22,6 @@ li {
 
 a {
     text-decoration: none;
-    color: #e96597;
+    color: #f80361;
     font-size: 20px;
 }
