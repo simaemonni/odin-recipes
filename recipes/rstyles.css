@@ -32,7 +32,7 @@ ul, ol {
     background-color: #f9dec9;
 }
 
-#source {
+#source, #home{
     text-decoration: none;
     color: #3a405a;
 }
