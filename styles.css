@@ -1,0 +1,23 @@
+html {
+    background-color: #e9afa3;
+}
+
+#header {
+    font-family: 'Luminari', 'Georgia', 'Trebuchet MS';
+    font-size: 60px;
+    color: #3a405a;
+    background-color: #aec5eb;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;font-family: 'Georgia', 'Trebuchet MS';
+    font-size: large;
+    color: #685044;
+}
+
+#recipes li{
+    list-style: none;
+    text-align: center;
+    background-color: #f9dec9;
+}

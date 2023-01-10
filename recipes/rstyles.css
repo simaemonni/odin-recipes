@@ -1,0 +1,38 @@
+html {
+    background-color: #e9afa3;
+}
+
+#header {
+    font-family: 'Luminari', 'Georgia', 'Trebuchet MS';
+    font-size: 40px;
+    color: #3a405a;
+    background-color: #aec5eb;
+    text-align: center;
+}
+
+img #main {
+
+}
+
+p {
+    font-family: 'Georgia', 'Trebuchet MS';
+    color: #685044;
+    background-color: #f9dec9;
+}
+
+h3 {
+    font-family: 'Luminari', 'Georgia', 'Trebuchet MS';
+    color: #3a405a;
+    background-color: #aec5eb;
+}
+
+ul, ol {
+    font-family: 'Georgia', 'Trebuchet MS';
+    color: #685044;
+    background-color: #f9dec9;
+}
+
+#source {
+    text-decoration: none;
+    color: #3a405a;
+}
